@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xzhang&layout=compact)]()
 -->
 
+<p align="center">
+	<a href="https://github.com/0xzhang"><img src="https://raw.githubusercontent.com/0xzhang/0xzhang/master/github-metrics.svg" alt="metrics"></a>
+
 
 <p>
 	<img src="https://github-readme-stats.vercel.app/api?username=0xzhang&show_icons=true&theme=buefy&hide_border=true">
