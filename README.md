@@ -20,14 +20,18 @@ Here are some ideas to get you started:
 
 [![0xzhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xzhang&show_icons=true&theme=buefy)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xzhang&layout=compact)]()
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xzhang&layout=compact&hide_border=true">
 -->
 
 ## Metrics
 <p align="center">
-	<a href="https://github.com/0xzhang"><img src="https://raw.githubusercontent.com/0xzhang/0xzhang/master/github-metrics.svg" alt="metrics"></a>
+	<a href="https://github.com/0xzhang"><img src="https://raw.githubusercontent.com/0xzhang/0xzhang/master/metrics.svg" alt="metrics"></a>
+<p align="center">
+	<a href="https://github.com/0xzhang"><img src="https://raw.githubusercontent.com/0xzhang/0xzhang/master/languages.svg" alt="languages"></a>
+<p align="center">
+	<a href="https://github.com/0xzhang"><img src="https://raw.githubusercontent.com/0xzhang/0xzhang/master/reactions.svg" alt="reactions"></a>
 
 ## Status
 <p>
 	<img src="https://github-readme-stats.vercel.app/api?username=0xzhang&show_icons=true&theme=buefy&hide_border=true">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xzhang&layout=compact&hide_border=true">
 </p>
