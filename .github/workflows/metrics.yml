@@ -46,3 +46,15 @@ jobs:
           plugin_reactions: yes
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
+
+      - name: Compact display
+        uses: lowlighter/metrics@latest
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            maintainer, inspirer, developer, influencer, member, polyglot, stargazer, deployer
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: A
