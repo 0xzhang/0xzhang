@@ -1,4 +1,5 @@
 ### Hi, I'm 0xzhang 👋
+[![github_views](https://komarev.com/ghpvc/?username=0xzhang)](https://github.com/0xzhang/0xzhang/)
 
 <!--
 **0xzhang/0xzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
