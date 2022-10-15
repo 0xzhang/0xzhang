@@ -1,9 +1,13 @@
+<a href="https://komarev.com/ghpvc/?username=0xzhang"><img src="https://komarev.com/ghpvc/?username=0xzhang
+" alt="profile"></a>
+
 ### Hi, I'm 0xzhang 👋
+
+<!--
+**0xzhang/0xzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - I am a C++ developer working in ChengDu, China.
 - My interests are mainly in high-performance computing, and I also focus on compilers, operating systems, computer graphics and other areas.
-<!--
-**0xzhang/0xzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
