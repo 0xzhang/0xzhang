@@ -1,6 +1,3 @@
-<a href="https://komarev.com/ghpvc/?username=0xzhang"><img src="https://komarev.com/ghpvc/?username=0xzhang
-" alt="profile"></a>
-
 ### Hi, I'm 0xzhang 👋
 
 <!--
