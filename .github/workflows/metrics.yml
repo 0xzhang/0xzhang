@@ -34,7 +34,7 @@ jobs:
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
           plugin_languages_details: percentage
-          plugin_languages_limit: 2
+          plugin_languages_limit: 4
           plugin_languages_threshold: 2%
 
       - name: Comment reactions
