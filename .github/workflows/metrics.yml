@@ -48,16 +48,6 @@ jobs:
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
 
-      - name: Indepth analysis
-        uses: lowlighter/metrics@latest
-        with:
-          filename: notable.indepth.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_notable: yes
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
-
       # - name: Compact display
       #   uses: lowlighter/metrics@latest
       #   with:
